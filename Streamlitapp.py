@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt
+
 import matplotlib.patches as mpatches
 import seaborn as sns
 import plotly.graph_objects as go
@@ -748,3 +748,4 @@ st.markdown("""
     &nbsp;|&nbsp; Models: LinearRegression · DecisionTree · RandomForest · SVR · KMeans
 </div>
 """, unsafe_allow_html=True)
+
